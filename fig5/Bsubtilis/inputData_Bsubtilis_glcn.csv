@@ -1,0 +1,2 @@
+Organism	Condition	GeneExpFile	Medium	Network	KnownFluxes
+Bsubtilis	glcn	./transcriptomes/Bsubtilis_Expfile_glcn.csv	./mediums/Bsubtilis_Medium_glcn.csv	./gems/iYO844_allReversible.xml	./knownFluxes/Bsubtilis_knownFluxes_glcn.csv

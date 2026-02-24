@@ -1,0 +1,1 @@
+Se movieron os archivos antiguos a carpetas "lost" para cada especie, y se añadieran nuevos archivos para reemplazar los antiguos

@@ -1,0 +1,2 @@
+Organism	Condition	GeneExpFile	Medium	Network	KnownFluxes
+Ecoli	glyc	./transcriptomes/Ecoli/Ecoli_Expfile_glyc.csv	./mediums/Ecoli_Medium_glyc.csv	./gems/iJO1366.xml	./knownFluxes/Ecoli/Ecoli_knownFluxes_glyc.csv

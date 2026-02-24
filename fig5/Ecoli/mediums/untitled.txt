@@ -1,0 +1,33 @@
+Metabolite_Name	Reaction_ID
+Arginina	EX_arg__L_e
+Calcio	EX_ca2_e
+Cloro	EX_cl_e
+Cobalto	EX_co_e
+Dióxido de carbono	EX_co2_e
+Hierro	EX_fe2_e
+Hierro	EX_fe3_e
+Fenilalanina	EX_phe__L_e
+Fosfato	EX_pi_e
+Protones	EX_h_e
+Agua	EX_h2o_e
+Glucosa	EX_glc__D_e
+Bicarbonato	EX_hco3_e
+Glicerol	EX_glyc_e
+Ácido docosahexaenoico	EX_hdca_e
+Selenio	EX_sel_e
+Sulfato	EX_so4_e
+Histidina	EX_his__L_e
+Triptófano	EX_trp__L_e
+Yodo	EX_i_e
+Valina	EX_val__L_e
+Treonina	EX_thr__L_e
+Isoleucina	EX_ile__L_e
+Potasio	EX_k_e
+Leucina	EX_leu__L_e
+Ácido linoleico copia 1	EX_lnlc_e_copy1
+Ácido linoleico copia 2	EX_lnlc_e_copy2
+Lisina	EX_lys__L_e
+Metionina	EX_met__L_e
+Sodio	EX_na1_e
+Amonio	EX_nh4_e
+Oxígeno	EX_o2_e

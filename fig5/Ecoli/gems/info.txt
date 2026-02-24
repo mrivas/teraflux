@@ -1,0 +1,15 @@
+Gem	Data
+S. cerevisiae	iMM904
+S. stipitis	iTL885
+Y. lipolytica	iYaliim
+E. coli	iJO1366
+B. subtilis	IYO844
+H. sapiens	Recon3D
+M. musculus	iMM1415
+#######################
+
+Los medios _r son los que tras aplicar FVA y detectar los CTI, se les reajusta los bounds para hacerlos reversibles usando el AdR
+
+#######################
+
+Los medios _r_[condicion] son los que se evalua algun cambio de direcion en los CTI y se reajustan para ser irreversibles

@@ -1,0 +1,2 @@
+Organism	Condition	GeneExpFile	Medium	Network
+Ecoli	ace	./transcriptomes/Ecoli/Ecoli_Expfile_ace.csv	./newMediums/Ecoli_Medium_ace.csv	./gems/iJO1366.xml

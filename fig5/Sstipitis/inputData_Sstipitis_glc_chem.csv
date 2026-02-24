@@ -1,0 +1,2 @@
+Organism	Condition	GeneExpFile	Medium	Network	KnownFluxes
+Sstipitis	glc_chem	./transcriptomes/Sstipitis_Expfile_glc_chem.csv	./mediums/Sstipitis_Medium_glc_chem.csv	./gems/iTL885_allReversible.xml	./knownFluxes/Sstipitis_knownFluxes_glc_chem.csv

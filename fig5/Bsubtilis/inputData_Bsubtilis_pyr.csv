@@ -1,0 +1,2 @@
+Organism	Condition	GeneExpFile	Medium	Network	KnownFluxes
+Bsubtilis	pyr	./transcriptomes/Bsubtilis_Expfile_pyr.csv	./mediums/Bsubtilis_Medium_pyr.csv	./gems/iYO844_allReversible.xml	./knownFluxes/Bsubtilis_knownFluxes_pyr.csv

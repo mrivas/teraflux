@@ -1,0 +1,2 @@
+Organism	Condition	GeneExpFile	Medium	Network	KnownFluxes
+Scerevisiae	glc	./transcriptomes/Scerevisiae_Expfile_glc.csv	./mediums/Scerevisiae_Medium_glc.csv	./gems/iMM904_allReversible.xml	./knownFluxes/Scerevisiae_knownFluxes_glc.csv
